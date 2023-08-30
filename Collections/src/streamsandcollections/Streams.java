@@ -12,7 +12,7 @@ public class Streams {
 
             List<String> list = new ArrayList<String>();
             list.add("Ramya");
-            list.add("seema");
+            list.add("pR");
             List<String> list2 = new ArrayList<String>();
             list.add("Ramya1");
             list.add("seema2");
